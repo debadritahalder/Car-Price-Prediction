@@ -1,0 +1,9 @@
+# Ignore full datasets
+data/raw/Image_table.csv
+data/processed/Image_Sales_Details.csv
+
+# Ignore system and temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.joblib
