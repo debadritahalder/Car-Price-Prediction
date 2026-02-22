@@ -65,6 +65,13 @@ Model comparison and evaluation
 
 Interactive prediction app using Streamlit
 
+## 📈 Key Insights
+
+- A negative trade-off is observed between top speed and fuel efficiency: faster cars tend to have lower average MPG.
+- Luxury car makers rely on high margins per car, while mass-market makers leverage high volume to maximize total revenue.
+- Car pricing is more strongly determined by quantitative performance and pricing metrics than by categorical attributes.
+- The model highlights which features most influence price, giving actionable insights for buyers and sellers.
+
 ## 📌 Notes
 
 All file paths are relative for easy reproducibility
