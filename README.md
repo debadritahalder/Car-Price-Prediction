@@ -27,20 +27,29 @@ car-price-prediction/
 
 ## ⚙️ How to Run the Project
 
-Clone the repository
+- Clone the repository
+
 git clone https://github.com/debadritahalder/car-price-prediction.git
 
-Open the project folder
+- Open the project folder
+
 cd car-price-prediction
+
 code .
 
-Install dependencies
+
+- Install dependencies
+
 pip install -r requirements.txt
 
-Run the notebook
-Open notebooks/car_data.ipynb and run all cells
+- Run the notebook
 
-Run the Streamlit app
+Open
+ notebooks/car_data.ipynb 
+and run all cells
+
+- Run the Streamlit app
+
 streamlit run app/app.py
 
 ## 📊 Dataset Note
