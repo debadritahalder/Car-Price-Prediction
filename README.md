@@ -45,7 +45,7 @@ pip install -r requirements.txt
 - Run the notebook
 
 Open
- notebooks/car_data.ipynb 
+ **notebooks/car_data.ipynb** 
 and run all cells
 
 - Run the Streamlit app
