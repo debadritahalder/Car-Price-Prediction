@@ -54,6 +54,8 @@ streamlit run app/app.py
 
 ## 📊 Dataset Note
 
+Source: Kaggle (multi-table dataset)
+
 Due to GitHub file size limits, one large dataset has been replaced with a sample version
 
 The project still runs fully using the sample dataset
